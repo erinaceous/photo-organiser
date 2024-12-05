@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 OUTPUT_DIR=/mnt/precious/Photos/by_year
-SCRIPT_DIR="/mnt/precious/Photos/photo-organiser"
+SCRIPT_DIR="/home/owanes/services/photo-organiser"
 
 source "${SCRIPT_DIR}/venv/bin/activate"
 
